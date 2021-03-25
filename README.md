@@ -1,4 +1,4 @@
-### Hi! I'm [Guille Martinez](https://www.linkedin.com/in/guillemmc) 👋🏽
+## Hi! I'm [Guille Martinez](https://www.linkedin.com/in/guillemmc) 👋🏽
 
 I'm a Front End Engineer born in Barcelona, but grown up in the world 🌏. Currently working remotely at [Ulabox](https://www.ulabox.com) 🛠. 
 
