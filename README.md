@@ -4,7 +4,24 @@ I'm a Front End Engineer born in Barcelona, but grown up all around the world �
 
 I love coding in both **React Native** and **React.js**. Besides that, I like sports in general 🏃🏽‍♂️⛷🚴🏽‍♂️🤾🏽‍♂️🛹🏊🏽‍♂️ and being outdoors 🏝🏔. Last but not least, I really love the surfing lifestyle and atmosphere ☀️🏄🏽‍♂️🌴, I hope to have the beach as my backyard someday. You may have already noticed, but traveling is my passion! ✈️
 
-<hr/>
+```
+const guille = {
+  profesional: {
+    currentJob: "Ulabox.com",
+    ide: "VS Code",
+    tech: {
+      frontEnd: ["React.js", "React Native", "Redux", "Redux-Sagas", "Next.js"],
+      testingNcodequality: ["jest", "ReactTestUtils", "Flow", "Lint"],
+      versionControl: ["Github"],
+      CICD: ["Jenkins", "Travis", "GitHub Actions", "Fastlane", "Codepush"]
+    }
+  },
+  personal: {
+    quote: "Do not fear mistakes, but refuse to repeat them.",
+    values: ["Innovative", "Sincere", "Passionate", "Collavorative", "Playful"]
+  }
+}
+```
 
 If you are curious about knowing me better, [check my *unconventional* resume](https://willyrabbits.github.io/).
 
