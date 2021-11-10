@@ -1,18 +1,18 @@
 ## Hi! I'm [Guille Martinez](https://www.linkedin.com/in/guillemmc) 👋🏽
 
-I'm a Front End Engineer born in Barcelona, but grown up all around the world 🌏. Currently working remotely at [Ulabox](https://www.ulabox.com) 🛠. 
+I'm a Front End Engineer born in Barcelona, but grown up all around the world 🌏. Currently working remotely at [Mr. Milu](https://mrmilu.com/) 🛠. 
 
-I love coding in both **React Native** and **React.js**. Besides that, I like sports in general 🏃🏽‍♂️⛷🚴🏽‍♂️🤾🏽‍♂️🛹🏊🏽‍♂️ and being outdoors 🏝🏔. Last but not least, I really love the surfing lifestyle and atmosphere ☀️🏄🏽‍♂️🌴, I hope to have the beach as my backyard someday. You may have already noticed, but traveling is my passion! ✈️
+I love coding in both **React Native** and **React.js**, and currently learning **Flutter**. Besides that, I like sports in general 🏃🏽‍♂️⛷🚴🏽‍♂️🤾🏽‍♂️🛹🏊🏽‍♂️ and being outdoors 🏝🏔. Last but not least, I really love the surfing lifestyle and atmosphere ☀️🏄🏽‍♂️🌴, I hope to have the beach as my backyard someday. You may have already noticed, but traveling is my passion! ✈️
 
 ```
 const guille = {
   profesional: {
-    currentJob: "Ulabox.com",
+    currentJob: "Mr. Milu",
     ide: "VS Code",
     tech: {
-      frontEnd: ["React.js", "React Native", "Redux", "Redux-Sagas", "Next.js"],
-      testingNcodequality: ["jest", "ReactTestUtils", "Flow", "Lint"],
-      versionControl: ["Github"],
+      frontEnd: ["React.js", "React Native", "Redux", "Redux-Sagas", "Next.js", "Flutter"],
+      testingNcodequality: ["TypeScript", "jest", "ReactTestUtils", "Lint"],
+      versionControl: ["Github", "GitLab"],
       CICD: ["Jenkins", "Travis", "GitHub Actions", "Fastlane", "Codepush"]
     }
   },
