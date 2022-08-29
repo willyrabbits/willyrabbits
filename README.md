@@ -7,14 +7,15 @@ I love coding in both **React Native** and **React.js**, and currently learning 
 ```
 const guille = {
   profesional: {
-    currentJob: "Mr. Milu",
-    ide: "VS Code",
+    currentJob: null,
+    learning: ["Flutter"],
     tech: {
       frontEnd: ["React.js", "React Native", "Redux", "Redux-Sagas", "Next.js", "Flutter"],
       testingNcodequality: ["TypeScript", "jest", "ReactTestUtils", "Lint"],
       versionControl: ["Github", "GitLab"],
       CICD: ["Jenkins", "Travis", "GitHub Actions", "Fastlane", "Codepush"]
-    }
+    },
+    ide: "VS Code"
   },
   personal: {
     quote: "Do not fear mistakes, but refuse to repeat them.",
