@@ -8,7 +8,7 @@ I love coding in both **React Native** and **React.js**, and currently learning 
 const guille = {
   profesional: {
     currentJob: null,
-    learning: ["Flutter"],
+    learning: ["Flutter", "Dart"],
     tech: {
       frontEnd: ["React.js", "React Native", "Redux", "Redux-Sagas", "Next.js", "Flutter"],
       testingNcodequality: ["TypeScript", "jest", "ReactTestUtils", "Lint"],
