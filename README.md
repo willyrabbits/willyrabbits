@@ -7,7 +7,7 @@ I love coding in both **React Native** and **React.js**, and currently learning 
 ```
 const guille = {
   profesional: {
-    currentJob: "FutureMe, Memories Group",
+    currentJob: null,
     learning: ["Flutter", "Dart"],
     tech: {
       frontEnd: ["React.js", "React Native", "Redux", "Redux-Sagas", "Next.js", "Flutter"],
@@ -24,7 +24,7 @@ const guille = {
 }
 ```
 
-If you are curious about knowing me better, [check my *unconventional* resume](https://willyrabbits.github.io/).
+If you are curious about knowing me better, [check my *unconventional* resume](https://willyrabbits.github.io/) (needs an update, sorry).
 
 
 ### Feel free to Contact me 🙂
