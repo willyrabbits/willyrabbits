@@ -7,7 +7,7 @@ I love coding in both **React Native** and **React.js**, and currently learning 
 ```
 const guille = {
   profesional: {
-    currentJob: null,
+    currentJob: Software Engineer, Full Stack @ Llama Life,
     learning: ["Flutter", "Dart"],
     tech: {
       frontEnd: ["React.js", "React Native", "Redux", "Redux-Sagas", "Next.js", "Flutter"],
