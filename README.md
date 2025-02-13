@@ -4,16 +4,16 @@ I'm a Front End Engineer born in Barcelona, but grown up all around the world �
 
 I love coding in both **React Native** and **React.js**, and currently learning **Flutter**. Besides that, I like sports in general 🏃🏽‍♂️⛷🚴🏽‍♂️🤾🏽‍♂️🛹🏊🏽‍♂️ and being outdoors 🏝🏔. Last but not least, I really love the surfing lifestyle and atmosphere ☀️🏄🏽‍♂️🌴, I hope to have the beach as my backyard someday. You may have already noticed, but traveling is my passion! ✈️
 
-```
+```js
 const guille = {
   profesional: {
-    currentJob: null,
-    learning: ["Flutter", "Dart"],
+    currentJob: "Fullstack deveoper @ 🙌Shelpful",
+    learning: ["Flutter", "Dart", "3D Modeling and animation"],
     tech: {
-      frontEnd: ["React.js", "React Native", "Redux", "Redux-Sagas", "Next.js", "Flutter"],
+      frontEnd: ["React Native", "React.js", "Redux", "Redux-Sagas", "Next.js", "Flutter"],
       testingNcodequality: ["TypeScript", "jest", "ReactTestUtils", "Lint"],
       versionControl: ["Github", "GitLab"],
-      CICD: ["Jenkins", "Travis", "GitHub Actions", "Fastlane", "Codepush"]
+      CICD: ["GitHub Actions", "Fastlane", "Jenkins", "Travis", "Codepush"]
     },
     ide: "VS Code"
   },
